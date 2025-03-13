@@ -1,0 +1,2 @@
+# config/__init__.py
+from .config import AZURE_OPENAI_API_KEY, AZURE_ENDPOINT, AZURE_DEPLOYMENT_NAME, OPENAI_API_VERSION
